@@ -1,0 +1,18 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning nodejs",
+  "main": "index.js",
+  "scripts": {
+    "14.UsingModules2OurOwnModules": "nodemon 14.UsingModules2OurOwnModules.js",
+    "17.UsingModules33rdPartyModules": "nodemon 17.UsingModules33rdPartyModules.js"
+  },
+  "author": "Sabbir",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
